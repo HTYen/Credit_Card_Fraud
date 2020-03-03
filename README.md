@@ -9,3 +9,7 @@ notebook命名方式：請在最後加上個人名稱
 目前可嘗試研究的兩個方向:  
 1. cross_validate測出來的結果與測test中的分數相比差太多，尚未知道原因為何，請見"Credit_Card_Fraud_basic_model_HT.ipynb"
 2. 特徵工程要新增什麼欄位  
+  
+可參考別人的資料：  
+https://github.com/KuanHaoHuang/tbrain-esun-fraud-detection/blob/master/doc/%E7%AB%B6%E8%B3%BD%E6%B5%B7%E5%A0%B1_StarRingChild.pdf  
+http://blog.tcfst.org.tw/asvda/file/JQ04/08.%E9%87%91%E8%9E%8D%E4%BF%A1%E7%94%A8%E5%8D%A1%E7%B5%841204.pdf  
