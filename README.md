@@ -6,7 +6,7 @@
 notebook命名方式：請在最後加上個人名稱  
   
 2020/3/4  
-新增"Feature_Engineering_Practice1_HT.ipynb"，裡面嘗試新增一欄 num_trades_3d 紀錄該卡號(cano)發生這筆交易的前三天，有多少次交易。可先想想程式碼要怎麼寫，再看我的可怎麼改進。  
+小練習：新增"Feature_Engineering_Practice1_HT.ipynb"，裡面嘗試新增一欄 num_trades_3d 紀錄該卡號(cano)發生這筆交易的前三天，有多少次交易。可先想想程式碼要怎麼寫，再看我的可怎麼改進。  
 2020/3/3  
 目前可嘗試研究的兩個方向:  
 1. (機器學習)cross_validate測出來的結果與測test中的分數相比差太多，尚未知道原因為何，請見"Credit_Card_Fraud_basic_model_HT.ipynb"
