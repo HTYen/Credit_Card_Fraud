@@ -4,7 +4,9 @@
 資料集似乎不公開，所以大家學習與討論技術就好，但不要把資料拿給別人  
 評分標準為f1 score  
 notebook命名方式：請在最後加上個人名稱  
-  
+2020/3/6  
+感謝俊逸對3/4"Feature_Engineering_Practice1_HT.ipynb"提供的解法。  
+目前還待解的是3/3的 1. (機器學習)請見"Credit_Card_Fraud_basic_model_HT.ipynb"  
 2020/3/4  
 小練習：新增"Feature_Engineering_Practice1_HT.ipynb"，裡面嘗試新增一欄 num_trades_3d 紀錄該卡號(cano)發生這筆交易的前三天，有多少次交易。可先想想程式碼要怎麼寫，再看我的可怎麼改進。  
 2020/3/3  
